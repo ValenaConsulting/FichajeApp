@@ -1,5 +1,18 @@
 # FichajeApp - Portal de gestión para empleados 
 
+### Credenciales del proyecto
+
+-MongoDB
+	email: bmarin@valenaconsulting.com 
+	constraseña: ContrasenaValena
+
+ Para el funcionamiento del email de recuperación de contraseñas es necesario generar una contraseña de app. El requisito para generarla es establecer un método de verificación en dos pasos. Al haber eliminado mi número personal no sé si seguirá funcionando
+ 
+-Email de recuperación de contraseñas:
+ email: fichaje.reset.pswd@gmail.com
+ contraseña: ContrasenaValena
+ email de recuperación de la cuenta: bmarin@valenaconsulting.com
+
 ## Configuración del Proyecto
 
 ### 1. Clonar el Repositorio
@@ -46,5 +59,5 @@ npm start
 Abre tu navegador y visita:
 
 ```
-http://localhost:5000
+http://localhost:3000
  ```
